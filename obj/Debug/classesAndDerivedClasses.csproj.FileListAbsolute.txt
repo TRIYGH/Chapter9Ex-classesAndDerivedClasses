@@ -1,0 +1,5 @@
+e:\classesAndDerivedClasses\classesAndDerivedClasses\bin\Debug\classesAndDerivedClasses.exe.config
+E:\classesAndDerivedClasses\classesAndDerivedClasses\obj\Debug\classesAndDerivedClasses.csprojResolveAssemblyReference.cache
+E:\classesAndDerivedClasses\classesAndDerivedClasses\obj\Debug\classesAndDerivedClasses.Form1.resources
+E:\classesAndDerivedClasses\classesAndDerivedClasses\obj\Debug\classesAndDerivedClasses.Properties.Resources.resources
+E:\classesAndDerivedClasses\classesAndDerivedClasses\obj\Debug\classesAndDerivedClasses.csproj.GenerateResource.Cache
